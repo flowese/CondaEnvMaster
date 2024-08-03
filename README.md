@@ -1,4 +1,4 @@
-# ![CondaEnv Master Icon](icon.ico) 
+![Screenshot](https://github.com/flowese/CondaEnvManager/raw/main/screenshot-interface.png)
 
 # CondaEnv Master
 
@@ -57,9 +57,6 @@
    - Click the "Import" button.
    - Select the YAML file containing the environment configuration.
 
-## Screenshots
-
-![Screenshot](https://github.com/flowese/CondaEnvManager/raw/main/screenshot-interface.png)
 
 ## License
 
