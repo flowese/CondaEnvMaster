@@ -33,7 +33,7 @@
 3. **Run the Application:**
 
    ```bash
-   python app.py
+   python CondaEnvMaster.py
    ```
 
 ## Usage
