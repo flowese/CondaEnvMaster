@@ -17,7 +17,7 @@
 ## Requirements
 
 - **Python:** This application uses native Python libraries.
-- **Conda/Miniconda:** Ensure that Conda or Miniconda is installed on your system.
+- **Conda/Miniconda:** Ensure that Conda or Miniconda is installed on your system. If you don't have Conda installed, please follow the instructions on the [Miniconda Installation Guide](https://docs.anaconda.com/miniconda/miniconda-install/) to install it.
 
 ## Installation
 
