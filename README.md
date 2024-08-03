@@ -59,7 +59,7 @@
 
 ## Screenshots
 
-![Screenshot](https://github.com/flowese/CondaEnvManager/raw/main/screenshot-main-interface.png)
+![Screenshot](https://github.com/flowese/CondaEnvManager/raw/main/screenshot-interface.png)
 
 ## License
 
