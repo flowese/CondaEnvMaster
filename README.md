@@ -39,7 +39,9 @@
    python CondaEnvMaster.py
    ```
 
+
 ## Screenshot
+
 ![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/screenshot-interface.png)
 
 
