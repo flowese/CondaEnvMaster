@@ -1,4 +1,5 @@
-# ![CondaEnv Master Icon](icon.ico) CondaEnv Master
+# ![CondaEnv Master Icon](icon.ico) 
+# CondaEnv Master
 
 **CondaEnv Master** is a user-friendly and intuitive GUI application for managing Conda environments. It allows you to easily create, delete, export, and import Conda environments with just a few clicks.
 
