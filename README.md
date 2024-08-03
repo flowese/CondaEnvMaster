@@ -44,7 +44,6 @@
 
 ![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/screenshot-interface.png)
 
-
 ## Usage
 
 1. **Create a New Environment:**
