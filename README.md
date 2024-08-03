@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/screenshot-interface.png)
+![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/banner.png)
 
 # CondaEnv Master
 
@@ -38,6 +38,9 @@
    ```bash
    python CondaEnvMaster.py
    ```
+
+![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/screenshot-interface.png)
+
 
 ## Usage
 
