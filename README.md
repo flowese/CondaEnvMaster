@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/flowese/CondaEnvManager/raw/main/screenshot-interface.png)
+![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/screenshot-interface.png)
 
 # CondaEnv Master
 
@@ -24,13 +24,13 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/flowese/CondaEnvManager.git
+   git clone https://github.com/flowese/CondaEnvMaster.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd CondaEnvManager
+   cd CondaEnvMaster
    ```
 
 3. **Run the Application:**
