@@ -11,7 +11,6 @@
 - **Export Environments:** Save environment configurations to a YAML file for sharing or backup.
 - **Import Environments:** Restore environments from a YAML file.
 - **Intuitive Interface:** A clean and easy-to-navigate graphical user interface.
-- **Automatic Updates:** The environment list updates automatically after any action.
 - **Multi-language Support:** The application supports a wide range of languages and automatically adapts to your system's locale.
 - **Native Python:** The application is built entirely using native Python libraries, without any third-party dependencies.
 
