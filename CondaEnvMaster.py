@@ -17,12 +17,31 @@ iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAuaklEQVR4nO2deZxb1ZXnv+e+J6lUVd53
 class CondaEnvMaster(tk.Tk):
     def __init__(self):
         super().__init__()
+        if not self.is_conda_installed():
+            self.show_conda_required_message()
+            self.quit()
+            return
+        
         self.title("CondaEnv Master")
         self.geometry("800x350")
         self.texts = self.load_translations()
         self.set_icon()
         self.create_widgets()
         self.update_env_list()
+
+    def is_conda_installed(self):
+        try:
+            subprocess.run(["conda", "--version"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+            return True
+        except subprocess.CalledProcessError:
+            return False
+
+    def show_conda_required_message(self):
+        if messagebox.showinfo(
+            "Conda Required",
+            "Conda is required to run this application. Please install it from the following link:\n\nhttps://docs.anaconda.com/miniconda/miniconda-install/"
+        ):
+            self.destroy()
 
     def set_icon(self):
         # Decodificar base64 a bytes
