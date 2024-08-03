@@ -1,6 +1,6 @@
 # CondaEnv Master
 
-![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/banner.png)
+![Screenshot](https://github.com/flowese/CondaEnvMaster/raw/main/banner-app.png)
 
 **CondaEnv Master** is a user-friendly and intuitive GUI application for managing Conda environments. It allows you to easily create, delete, export, and import Conda environments with just a few clicks.
 
